@@ -1,0 +1,3 @@
+count
+array_slice
+forech или for
